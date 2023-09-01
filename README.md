@@ -23,6 +23,6 @@ This low score might be due to the low number of epoch = 10 instead of 30. This 
 
 [Capstone Project-1](07-CAPSTONE-PROJECT--Lung-Tumor-Segmentation/1.png)
 
-[Capstone Project-Final-Lung](07-CAPSTONE-PROJECT--Lung-Tumor-Segmentation/07-CAPSTONE-PROJECT--Lung-Tumor-Segmentation.mp4)
+[Capstone Project-Final-Lung](07-CAPSTONE-PROJECT--Lung-Tumor-Segmentation/Final_lung_model_10_epochs.mp4)
 
 [Capstone Project-2](07-CAPSTONE-PROJECT--Lung-Tumor-Segmentation/2.png)
