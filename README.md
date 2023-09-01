@@ -11,3 +11,4 @@ while a score close to 0 indicates no overlap. Closer to 1 is better
 This low score might be due to the low number of epoch = 10 instead of 30. This is due to the limitation of my hardware
 10 epochs cost me 4.5 hours, so the default 30 epochs should be around 14 hours...
 
+![Capstone Project](07-CAPSTONE-PROJECT--Lung-Tumor-Segmentation/1.png)
