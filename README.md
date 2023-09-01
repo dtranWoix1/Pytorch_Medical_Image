@@ -1,3 +1,8 @@
+# Need a NVIDIA graphic card for CUDA
+
+Demanding on the hardware, certain steps with a big epoch numbers should be ran overnight. Also monitor the temperature
+
+
 # Pytorch_Medical_Image
 
 Update code as of August 2023.
