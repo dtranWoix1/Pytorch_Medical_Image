@@ -34,4 +34,7 @@ This low score might be due to the low number of epoch = 10 instead of 30. This 
 
 
 
-Mismatch version or compatibility problem between torchio and SimpleITK caused me unable to process for module 8 (final module). So there is no 3D. So I have to conclude this project here. 
+# Mismatch version or compatibility problem between torchio and SimpleITK caused me unable to process for module 8 (final module).
+
+
+So there is no 3D. So I have to conclude this project here. 
