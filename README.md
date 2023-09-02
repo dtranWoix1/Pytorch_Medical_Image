@@ -31,3 +31,7 @@ This low score might be due to the low number of epoch = 10 instead of 30. This 
 [Capstone Project-Final-Lung](07-CAPSTONE-PROJECT--Lung-Tumor-Segmentation/Final_lung_model_10_epochs.mp4)
 
 [Capstone Project-2](07-CAPSTONE-PROJECT--Lung-Tumor-Segmentation/2.png)
+
+
+
+Mismatch version or compatibility problem between torchio and SimpleITK caused me unable to process for module 8 (final module). So there is no 3D. So I have to conclude this project here. 
