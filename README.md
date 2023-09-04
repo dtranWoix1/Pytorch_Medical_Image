@@ -25,12 +25,16 @@ This low score might be due to the low number of epoch = 10 instead of 30. This 
 10 epochs cost me 4.5 hours, so the default 30 epochs should be around 14 hours...
 
 
+# Lung Tumor Segmentation
+![Capstone Project-1](07-CAPSTONE-PROJECT--Lung-Tumor-Segmentation/1.png)
 
-[Capstone Project-1](07-CAPSTONE-PROJECT--Lung-Tumor-Segmentation/1.png)
+# Model of lungtumor 10 epochs
 
-[Capstone Project-Final-Lung](07-CAPSTONE-PROJECT--Lung-Tumor-Segmentation/Final_lung_model_10_epochs.mp4)
+![Capstone Project-Final-Lung](07-CAPSTONE-PROJECT--Lung-Tumor-Segmentation/Final_lung_model_10_epochs.mp4)
 
-[Capstone Project-2](07-CAPSTONE-PROJECT--Lung-Tumor-Segmentation/2.png)
+# Lung tumor #2
+
+![Capstone Project-2](07-CAPSTONE-PROJECT--Lung-Tumor-Segmentation/2.png)
 
 
 
